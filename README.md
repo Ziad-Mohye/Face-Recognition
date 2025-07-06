@@ -33,5 +33,3 @@ This project implements a face recognition system using both deep learning and c
 2. Install dependencies from `requirements.txt`
 3. Run `Face Recognition.ipynb` to train and evaluate models
 
-## 🧑‍💻 Author
-Ziad Mohey Hamed
